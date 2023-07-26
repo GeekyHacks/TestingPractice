@@ -1,0 +1,19 @@
+{
+  "name": "testingpractice",
+  "version": "1.0.0",
+  "description": "In this repo I will be practicing Unit testing for JavaScript app using AAA pattern.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "GeekyHacks",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
+
